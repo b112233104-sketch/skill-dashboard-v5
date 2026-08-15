@@ -1670,7 +1670,7 @@ window.DASHBOARD_DATA = {
               desc: "先問「它最少需要什麼」，不要想著「給它全部最省事」。",
               done: false,
             },
-            
+            {
               text: "設定檔啟動時才讀",
               desc: "改完要重開一次，不然新的設定不會生效。",
               done: false,
